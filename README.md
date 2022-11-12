@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>আমার সোশ্যাল মিডিয়ায় অ্যাকাউন্ট</title>
